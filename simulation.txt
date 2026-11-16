@@ -1,0 +1,141 @@
+Tower says: Balloon#B1(1) registered to weather tower.
+Tower says: Balloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Balloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Balloon#B1(1): the rain is going to ruin the balloon.
+Balloon#B2(2): it's snowing, descending.
+JetPlane#J1(3): it's snowing, but it's so pretty.
+Helicopter#H1(4): light snow along our route.
+Helicopter#H2(5): light snow along our route.
+Helicopter#H3(6): we're encountering some rain but it's manageable.
+Balloon#B3(7): it's quite foggy, but we are fine.
+JetPlane#J2(8): flying through foggy areas, maintain care.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B1(1): the sun is shining and the balloon is rising.
+Balloon#B2(2): the sun is shining and the balloon is rising.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+Helicopter#H1(4): light snow along our route.
+Helicopter#H1(4): I am landing!
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): light snow along our route.
+Helicopter#H3(6): flying through fog, maintaining safety.
+Balloon#B3(7): it's snowing, descending.
+JetPlane#J2(8): it's snowing, but it's so pretty.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B1(1): it's quite foggy, but we are fine.
+Balloon#B2(2): it's quite foggy, but we are fine.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+Helicopter#H2(5): light snow along our route.
+Helicopter#H3(6): light snow along our route.
+Balloon#B3(7): the sun is shining and the balloon is rising.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B1(1): it's snowing, descending.
+Balloon#B2(2): it's snowing, descending.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+Helicopter#H2(5): light snow along our route.
+Helicopter#H2(5): I am landing!
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): light snow along our route.
+Balloon#B3(7): it's quite foggy, but we are fine.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B1(1): the sun is shining and the balloon is rising.
+Balloon#B2(2): the sun is shining and the balloon is rising.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+Helicopter#H3(6): light snow along our route.
+Balloon#B3(7): it's snowing, descending.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B1(1): it's quite foggy, but we are fine.
+Balloon#B2(2): it's quite foggy, but we are fine.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+Helicopter#H3(6): light snow along our route.
+Balloon#B3(7): the sun is shining and the balloon is rising.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B1(1): it's snowing, descending.
+Balloon#B1(1): I am landing!
+Tower says: Balloon#B1(1) unregistered from weather tower.
+Balloon#B2(2): it's snowing, descending.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+Helicopter#H3(6): light snow along our route.
+Balloon#B3(7): it's quite foggy, but we are fine.
+JetPlane#J2(8): it's snowing, but it's so pretty.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B2(2): the sun is shining and the balloon is rising.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+Helicopter#H3(6): light snow along our route.
+Balloon#B3(7): it's snowing, descending.
+Balloon#B3(7): I am landing!
+Tower says: Balloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B2(2): it's quite foggy, but we are fine.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+Helicopter#H3(6): light snow along our route.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B2(2): it's snowing, descending.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+Helicopter#H3(6): light snow along our route.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B2(2): the sun is shining and the balloon is rising.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+Helicopter#H3(6): light snow along our route.
+Helicopter#H3(6): I am landing!
+Tower says: Helicopter#H3(6) unregistered from weather tower.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B2(2): it's quite foggy, but we are fine.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): it's snowing, but it's so pretty.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+Balloon#B2(2): it's snowing, descending.
+Balloon#B2(2): I am landing!
+Tower says: Balloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): it's snowing, but it's so pretty.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): it's snowing, but it's so pretty.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): sunny weather, smooth flight ahead.
+JetPlane#J1(3): cruising with a beautiful sunny view.
+JetPlane#J2(8): cruising with a beautiful sunny view.
+Helicopter#H4(9): flying through fog, maintaining safety.
